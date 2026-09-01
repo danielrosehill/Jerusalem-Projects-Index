@@ -3,9 +3,10 @@
 Projects tied to Jerusalem as a place — the city, its streets, its municipal
 services and specific addresses within it.
 
-Small by design. Most Israel-related work lives in
-[Israel-Projects-Index](https://github.com/danielrosehill/Israel-Projects-Index)
-or a narrower topic index; this one exists for the handful of projects whose
+A sub-index of
+[Israel-Projects-Index](https://github.com/danielrosehill/Israel-Projects-Index),
+which links here. Small by design: most Israel-related work belongs there or in
+a narrower topic index, and this one exists for the handful of projects whose
 subject is Jerusalem specifically rather than Israel generally.
 
 *Last updated: 2026-09-01*
