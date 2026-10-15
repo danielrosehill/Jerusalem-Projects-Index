@@ -9,7 +9,7 @@ which links here. Small by design: most Israel-related work belongs there or in
 a narrower topic index, and this one exists for the handful of projects whose
 subject is Jerusalem specifically rather than Israel generally.
 
-*Last updated: 2026-09-01*
+*Last updated: 2026-10-15*
 
 ## Civic and street-level
 
@@ -29,6 +29,10 @@ from one place.
 | [Yaffo-105-Setup](https://github.com/danielrosehill/Yaffo-105-Setup) | Setting up the flat — fit-out, services, appliances |
 | [Yaffo-105-Reception-Portal](https://github.com/danielrosehill/Yaffo-105-Reception-Portal) | Reception / building portal |
 | [Yaffo-105-Delivery-Instructions](https://github.com/danielrosehill/Yaffo-105-Delivery-Instructions) | Delivery and access instructions for couriers |
+
+## Related
+
+- [Jerusalem-AI](https://github.com/danielrosehill/Jerusalem-AI) — AI in Jerusalem: research, companies, communities, people, and AI projects about the city. AI work goes there; this index keeps the non-AI projects.
 
 ## Scope
 
