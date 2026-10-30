@@ -1,5 +1,7 @@
 # Jerusalem Projects Index
 
+[![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Start-Here)
+
 Projects tied to Jerusalem as a place — the city, its streets, its municipal
 services and specific addresses within it.
 
